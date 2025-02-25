@@ -22,7 +22,7 @@
   </a>
   <p style="font-size: 1.2em; font-weight: bold;">
     <strong>Visit my portfolio to see my projects, skills, and more:</strong> <br>
-    <a href="https://RachitKumar116.github.io/my-portfolio/" style="color: #007bff; text-decoration: none; font-weight: bold;">RachitKumar116.github.io/my-portfolio</a>
+    <a href="https://RachitKumar74.github.io/my-portfolio/" style="color: #007bff; text-decoration: none; font-weight: bold;">RachitKumar74.github.io/my-portfolio</a>
   </p>
 </div>
 
