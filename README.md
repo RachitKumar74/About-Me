@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rachit Kumar, a B-Tech Computer Science student at Shri Ramshwaroop Memorial University, Barabanki,Lucknow, UP. I'm always eager to learn new technologies and push the boundaries of my knowledge.<br><br>🔭 I’m currently working on Innovative full-stack projects using the MERN stack.<br>🤝 I’m looking for help with Advanced algorithms and large-scale application architectures.<br>🌱 I’m currently learning In-depth concepts of DBMS, OS, Computer Networking, and enhancing my skills in SQL.<br>💬 Ask me about Full-stack development, DSA in Java, and my experience with various programming languages like C, C++ and Java.
+👋 Hi, I'm Rachit Kumar, a B-Tech Computer Science student at Shri Ramshwaroop Memorial University, Barabanki,Lucknow, UP. I'm always eager to learn new technologies and push the boundaries of my knowledge.<br><br>🔭 I’m currently working on Innovative full-stack projects using the MERN stack.<br>🤝 I’m looking for help with Advanced algorithms and large-scale application architectures.<br>🌱 I’m currently learning In-depth concepts of DBMS, OS, Computer Networking, and enhancing my skills in SQL.<br>💬 Ask me about Full-stack development, DSA in Java, and my experience with various programming languages like C, python and Java.
 <br/>
 
 ## 🌐 Socials:
